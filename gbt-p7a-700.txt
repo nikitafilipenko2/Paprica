@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-26092023-026963";"";
+"REFERENCE";"GBT-P7A-700";"";
+"TraceParts.PartTitle";"Six axis robot GBT-P7A-700";"";
+"TraceParts.InstanceId";"90-26092023-02696378P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"Shanghai Agilebot Robotics";"";
+"DESIGN";"Six axis robot GBT-P7A-700";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
